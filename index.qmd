@@ -297,6 +297,45 @@ Taken together, **too-much-of-a-good thing** effects, **perils of overconfidence
   - Perceiver attitudes (***H3a***) 
   - Perceiver behaviors (***H3b***)
   
+  
+  
+## The Role of Individual Differences{style='font-size: 20px'}
+
+The effect of leader-expressed uncertainty may depend on the **individual traits and characteristics** of observers
+
+<br>
+
+. . .
+
+**Need for Cognitive Closure**
+
+- Captures desire for clear answers and predictability; **intolerance of uncertainty** and ambiguity
+- Affects **leader endorsement** and rejection
+  - E.g., increases support for **autocratic** leaders and **group-prototypical leaders**
+- This link between need for closure and **rejection of closure-disrupting leaders** suggests...
+  
+<br></br>
+
+. . .
+
+**Hypothesis 4**  
+
+The effect of leader-expressed uncertainty is moderated by **perceiver need for closure**, such that the effect on
+
+  - Perceiver attitudes (***H4a***) 
+  - Perceiver behaviors (***H4b***)
+  
+. . .
+
+... is more **negative** for perceivers with higher need for closure 
+
+<!-- **Need for Closure Reduces Support for Closure-Disrupting Leaders** -->
+
+  
+::: aside
+Pierro, Cicero, Bonaiuto, Van Knippenberg, & Kruglanski, 2005; Pierro, Mannetti, De Grada, Livi, & Kruglanski, 2003; Van Knippenberg, 2011; Webster & Kruglanski, 1994
+:::
+
 
 ## Methods
 
