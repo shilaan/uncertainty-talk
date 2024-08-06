@@ -84,7 +84,6 @@ Cartwright, 1959; Cialdini & Goldstein, 2003; Raven, 1964
 
 ## Uncertainty May Harm Leader Influence{style='font-size: 20px'}
 
-. . . 
 
 ![](images/loop.png){.absolute top="440" right="300" height="150" width="450"}
 
@@ -109,7 +108,7 @@ Anderson, Brion, Moore, & Kennedy, 2012; Anderson & Kilduff, 2009; Gaertig & Sim
 
 ## Uncertainty May Harm Leader Influence{style='font-size: 20px'}
 
-. . .
+
 
 
 ![](images/superwoman.jpeg){.absolute top="240" right="0" height="350"}
@@ -138,7 +137,6 @@ Bligh, Kohles, & Pillai, 2011; Bligh & Meindl, 2004; Chemers, Watson, & May, 200
 
 <br></br>
 
-. . . 
 
 Taken together, the **competence-signaling** and **leadership-prototypes** accounts suggest...
 
@@ -206,7 +204,6 @@ Cho, Schilpzand, Huang, & Paterson, 2021; Collins & Miller, 1994; Coutifaris & G
 
 <br></br>
 
-. . . 
 
 Taken together, the literatures on **humility**, **authenticity**, **vulnerability**, and **self-disclosure** suggest...
 
@@ -260,7 +257,7 @@ Ames & Flynn, 2007; Amundsen & Martinsen, 2014; Antonakis, House, & Simonton, 20
 
 <br></br>
 
-. . .
+
 
 **Miscalibration** of confidence harms...
 
@@ -333,7 +330,7 @@ Meslec, Curseu, Fodor, & Kenda, 2020; Tenney et al., 2019; Zapata & Hayes-Jones,
 - Five designs to confirm **generalizability** across different experimental tasks 
 - Prolific participants randomly assigned to one of five experimental **designs**
   - Within each design, randomly assigned to one of nine experimental **conditions**
-  - 6,000 participants; 1,200 per design; $\pm$ 133 per condition
+  - 4,680 participants; 936 per design
 - Three-round **incentivized** game
 - Paired with **leader** 
 - **Advice** expressed in varying degrees of uncertainty
@@ -472,18 +469,18 @@ tc1 %>%
 <br></br>
 
 ```{r}
-convinced1 <- read_csv("data/convinced2.csv")
+convinced2 <- read_csv("data/convinced2.csv")
 
-tc1 <- convinced1 %>% 
+tc2 <- convinced2 %>% 
   group_by(ConvincedR, Convinced_Statement) %>% 
   summarize(
     Median = median(Convinced_RatingR), 
     Mean = mean(Convinced_RatingR) %>% round(2)
     )
 
-tc1$Lexicon_Uncertainty <- -1*(c(7.95, 7.38, 6.55, 6.37, 5.83, 4.36, 3.92, 3.34, 1.97) -5)
+tc2$Lexicon_Uncertainty <- -1*(c(7.95, 7.38, 6.55, 6.37, 5.83, 4.36, 3.92, 3.34, 1.97) -5)
 
-tc1 %>% 
+tc2 %>% 
   select(ConvincedR, Convinced_Statement) %>% 
   knitr::kable(
     col.names = c(
@@ -601,7 +598,7 @@ How many of 100 people surveyed prefer having a **cat** to a **dog**?
 **Message from Team Leader:**  
 I said 40 here. I’ve been asked to quantify for you how certain I am that it’s within 5 points of the right answer. On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), I’d say my certainty level is a(n) [***1/2/3/4/5/6/7/8/9***]. 
 
-## Attitudinal Outcomes{background-image="images/Shutterstock_572571964.jpg" background-size="600px" background-position="85% 80%"}
+## Attitudinal Outcomes{background-image="images/Shutterstock_572571964.jpg" background-size="600px" background-position="90% 80%"}
 
 ::: {.nonincremental}
 
@@ -703,7 +700,7 @@ Manian & Sheth, 2021
 
 :::
 
-# Results
+## Results
 
 ## Thank You!{.center style='font-size: 95px; text-align: center;'}
 
@@ -888,7 +885,7 @@ Rocklage, He, Rucker, & Nordgren, 2022
 <br></br>
 
 ```{r}
-tc1 %>% 
+tc2 %>% 
   select(!Lexicon_Uncertainty) %>% 
   knitr::kable(
     col.names = c(
@@ -903,7 +900,7 @@ tc1 %>%
 ```
 
 ::: aside
-Same as first qualitative uncertainty manipulation, except for conditions -1, 0, 1, and 4. [NB: I THINK YOU'VE GOT A CODING MISTAKE HERE AND YOU'RE SHOWING THE SAME SCALE TWICE]
+Same as first qualitative uncertainty manipulation, except for conditions -1, 0, 1, and 4.
 :::
 
 ## Qualitative Statement 2{visibility="uncounted"} 
@@ -911,7 +908,7 @@ Same as first qualitative uncertainty manipulation, except for conditions -1, 0,
 <br></br>
 
 ```{r}
-tc1 %>% 
+tc2 %>% 
   knitr::kable(
     col.names = c(
       "Uncertainty Condition", 
@@ -973,7 +970,7 @@ I answered NO. I am...  <details>
 
 . . .
 
-![](images/S4.png){.absolute right="0" top="150"}
+![](images/S4.png){.absolute right="0" top="150" width="500"}
 
 
 <br></br>
