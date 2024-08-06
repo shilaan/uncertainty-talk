@@ -1,0 +1,1033 @@
+---
+title: "[Does Expressing Uncertainty Help or Harm Leaders?]{style='font-size: 75px'}"
+subtitle: "[**A Registered Report**]{style='font-size: 36px; font-weight: bold'}"
+author: "[Shilaan Alzahawi & Francis J. Flynn, Stanford Graduate School of Business]{style='font-size 30px; font-weight: bold; color: #8f8f8f'}"
+format: 
+  revealjs:
+    code-fold: false
+    code-summary: "Show code"
+    code-line-numbers: false
+    incremental: true
+    smaller: true
+    scrollable: true
+    theme: custom.scss
+    code-copy: true
+    slide-number: true
+    preview-links: true
+    self-contained: true #change to true after edits
+    controls: true
+    overview: true
+    mouse-wheel: false
+execute: 
+  freeze: true
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(icons)
+```
+
+
+## Leader-Expressed Uncertainty 
+
+![](images/Shutterstock_422654659.png){.absolute top="250" right="0" height="300" width="300"}
+
+
+
+<br></br>
+
+<center>
+
+"Society tends to attribute **authority** to those who convey **certainty**  
+rather than to those who emphasize **uncertainty**"
+
+</center> 
+
+<br></br>
+
+. . . 
+
+Past research outlines **two opposing positions**:
+
+- Expressing uncertainty is **detrimental** to leaders' social influence
+- Expressing uncertainty is **beneficial** to leaders' social influence
+
+. . . 
+
+
+How can we **reconcile** these two perspectives?
+
+
+
+::: aside
+Anderson, Brion, Moore, & Kennedy, 2012; Belmi, Neale, Reiff, & Ulfe, 2020; Hennig, 2022; Hussein & Tormala, 2021; Karmarkar & Tormala, 2010; Owens & Hekman, 2012; Radzevick & Moore, 2011; Ronay, Oostrom, Lehmann-Willenbrock, Mayoral, & Rusch, 2019; Tenney, MacCoun, Spellman, & Hastie, 2007; Tenney & Spellman, 2011; Tenney, Meikle, Hunsaker, Moore, & Anderson, 2019
+:::
+
+## Social Influence
+
+![](images/influence.png){.absolute top="200" right="200" width="600"}
+
+<br></br>
+
+<center> 
+
+"The ability of one person to influence the **attitudes** and **behavior** of another"
+
+</center> 
+
+::: aside
+Cartwright, 1959; Cialdini & Goldstein, 2003; Raven, 1964
+:::
+
+## Uncertainty May Harm Leader Influence{style='font-size: 20px'}
+
+. . . 
+
+![](images/loop.png){.absolute top="440" right="300" height="150" width="450"}
+
+<br></br>
+
+
+
+
+### Competence-signaling account{style='font-size: 25px'}
+
+- Expressing **confidence** is effective across a wide range of social settings
+  - Courtroom, military, political arena, hiring committees...
+- **Advice**-giving
+  - Confident advice is more likely to be followed, regardless of **accuracy**/**quality** 
+  - Physicians, brokers, consultants, therapists, peer reviewers...
+- **Presumption of calibration**
+  - A person's expressed **confidence corresponds to their actual competence**
+
+::: aside
+Anderson, Brion, Moore, & Kennedy, 2012; Anderson & Kilduff, 2009; Gaertig & Simmons, 2018; Kennedy, Anderson, & Moore, 2013; Locke & Anderson, 2015; Manian & Sheth, 2021; Price & Stone, 2004; Radzevick & Moore, 2011; Ronay, Oostrom, Lehmann-Willenbrock, Mayoral, & Rusch, 2019; Sniezek & Buckley, 1995; Sniezek & Van Swol, 2001; Tenney & Spellman, 2011; Van Swol & Sniezek, 2005; Von Hippel & Trivers, 2011; Zalesny, 1990
+:::
+
+## Uncertainty May Harm Leader Influence{style='font-size: 20px'}
+
+. . .
+
+
+![](images/superwoman.jpeg){.absolute top="240" right="0" height="350"}
+
+<br></br>
+
+
+
+
+### Leadership-prototypes account{style='font-size: 25px'}
+
+- Implicit assumptions about the **traits**, **abilities**, and **behaviors** that characterize an **ideal leader**
+  - "Implicit leadership theories" or "leadership prototypes"
+- Humans hold **highly romanticized, heroic** views of leadership
+  - Charisma
+  - Dominance
+  - Assertiveness
+  - Expertise
+  - Confidence
+  
+::: aside
+Bligh, Kohles, & Pillai, 2011; Bligh & Meindl, 2004; Chemers, Watson, & May, 2000; Cojuharenco & Karelaia, 2020; Conger & Kanungo, 1987; Conger, Kanungo, & Menon, 2000; De Cremer & Knippenberg, 2004; Epitropaki & Martin, 2004; Foti, Fraser, & Lord, 1982; Fraser & Lord, 1988; Hogg, Hains, & Mason, 1998; Junker & van Dick, 2014; Lord, Foti, & de Vader, 1984; Meindl, 1995; Meindl, Ehrlich, & Dukerich, 1985; Nye & Forsyth, 1991; Nye & Simonetta, 1996; Offermann & Coats, 2018; Rosette, Leonardelli, & Phillips, 2008; Sauer, 2011; Shamir, House, & Arthur, 1993; van Quaquebeke, van Knippenberg, & Brodbeck, 2011; van Quaquebeke & van Knippenberg, 2012
+:::
+
+## Uncertainty May Harm Leader Influence{style='font-size: 20px'}
+
+<br></br>
+
+. . . 
+
+Taken together, the **competence-signaling** and **leadership-prototypes** accounts suggest...
+
+
+
+![](images/loop.png){.absolute top="200" left="0" height="150" width="450"}
+![](images/superwoman.jpeg){.absolute top="160" right="300" height="300"}
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+. . . 
+
+**Hypothesis 1**: Leader-expressed uncertainty has a **negative** effect on leader social influence  
+
+  - Perceiver attitudes (***H1a***) 
+  - Perceiver behaviors (***H1b***)
+
+
+## Uncertainty May Benefit Leader Influence{style='font-size: 20px'}
+
+. . .
+
+![](images/vulnerability.png){.absolute top="130" right="0" height="250"}
+
+
+<br></br>
+
+
+
+
+**Humble** leadership
+
+- Showing “humanness”: admitting limitations and knowledge gaps
+
+. . .
+
+
+**Authentic** leadership
+
+- Knowing and acting upon true values, beliefs, integrity, and strengths
+- Involves self-awareness: authentic leaders are conscious of knowledge gaps
+
+. . . 
+
+**Vulnerability** and **self-disclosure**
+
+- Disclosing personal limitations and weaknesses 
+
+. . .
+
+Positive outcomes of **humility**, **authenticity**, **vulnerability**, and **self-disclosure** include...
+
+- Trust, liking, engagement, psychological safety, feedback seeking, knowledge and information sharing, job satisfaction, job and task performance, creativity, organizational citizenship behavior, job retention, team learning
+
+::: aside
+Cho, Schilpzand, Huang, & Paterson, 2021; Collins & Miller, 1994; Coutifaris & Grant, 2022; Diddams & Chang, 2012; Gardner, Cogliser, Davis, & Dickens, 2011; Hu, Erdogan, Jiang, Bauer, & Liu, 2018; Hussein & Tormala, 2021; Karmarkar & Tormala, 2010; Ou, Tsui, Kinicki, Walman, Xiao, & Song, 2014; Owens & Hekman, 2012; Owens, Johnson, & Mitchell, 2013; Qian, Song, Wang, Wang, Chang, & Xiong, 2018; Rego, Cunha, & Simpson, 2018; Wang, Liu, & Zhu, 2018; Wang, Owens, Li, & Shi, 2018; Weick, 2001; Wheeless & Grotz, 1977; Wong, Spence Laschinger, & Cummings, 2010; Wong & Cummings, 2009 
+:::
+
+## Uncertainty May Benefit Leader Influence{style='font-size: 20px'}
+
+<br></br>
+
+. . . 
+
+Taken together, the literatures on **humility**, **authenticity**, **vulnerability**, and **self-disclosure** suggest...
+
+![](images/vulnerability.png){.absolute top="160" left="200" height="300"}
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+. . . 
+
+**Hypothesis 2**: Leader-expressed uncertainty has a **positive** effect on leader social influence  
+
+  - Perceiver attitudes (***H2a***) 
+  - Perceiver behaviors (***H2b***)
+  
+## Help, Harm, or... Both?{style='font-size: 20px'}
+
+
+![](images/curvilinear.jpeg){.absolute top="400" left="150" height="200"}
+
+<br></br>
+
+- Literature may be reconciled by examining **nonlinear effects**
+- **Curvilinear** effects have been theorized, but most empirical studies rely on **binary measures** of (over)confidence
+- "**Too-much-of-a-good thing**" effects are pervasive in leadership research
+  - Seemingly positive relations that become flat or negative after reaching a specific inflection point
+<details>
+    <summary>
+    Examples of TMGT effects
+    </summary>
+Agency, communion, decision latitude, empathy, empowering leadership, ethical leadership, intelligence, optimism, participative leadership, psychopathy, tenure, unpleasantness, voice, warmth
+    </details>
+  - Assertiveness & charisma: involve **confident communication**
+- **Perils of overconfidence**; observers prefer **calibration** in confidence and communication
+  - Expressing uncertainty when appropriate
+  - Job applicants, collaborators, advisors, eyewitnesses, managers...
+
+
+
+::: aside
+Ames & Flynn, 2007; Amundsen & Martinsen, 2014; Antonakis, House, & Simonton, 2017; Campbell, Gallmeyer, Johnson, Rutherford, & Stanley, 2011; Chua & Iyengar, 2011; Heavey et al., 2022; Huang, Xu, Huang, & Liu, 2018; Hu, Zhang, Jiang, & Chen, 2019; Konig, Graf-Vlachy, Bundy, & Little, 2020; Lam, Huang, & Chan, 2015; Landay, Harms, & Crede, 2019; Luo, Kanuri, & Andrews, 2014; Paese & Kinnaly, 1993; Pierce & Aguinis, 2013; Schock, Gruber, Scherndl, & Ortner, 2019; Staw, DeCelles, & de Goey, 2019; Stouten, van Dijke, Mayer, De Cremer, & Euwema, 2013; Tenney, MacCoun, Spellman, & Hastie, 2007; Tenney & Spellman, 2011; Tenney, Spellman, & MacCoun, 2008; Tenney, Meikle, Hunsaker, Moore, & Anderson, 2019; Vergauwe, Wille, Hofmans, Kaiser, & De Fruyt, 2018; Vitanova, 2021
+:::
+
+## Costs of Miscalibrated Confidence{style='font-size: 20px'}
+
+![](images/overconfidence.jpeg){.absolute right="0" top="125"}
+
+<br></br>
+
+. . .
+
+**Miscalibration** of confidence harms...
+
+- Perceived credibility
+- Perceived value to the team
+- Perceived desirability
+- Trust
+- Willingness to collaborate
+- Willingness to follow
+
+::: aside
+Tenney, MacCoun, Spellman, & Hastie, 2007; Tenney & Spellman, 2011; Tenney, Spellman, & MacCoun, 2008; Tenney, Meikle, Hunsaker, Moore, & Anderson, 2019 
+:::
+
+
+## Help, Harm, or... Both?{style='font-size: 20px'}
+
+<br></br>
+
+. . . 
+
+Taken together, **too-much-of-a-good thing** effects, **perils of overconfidence**, and **preferences for calibration** suggest...
+
+![](images/curvilinear.jpeg){.absolute top="200" left="150"}
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+. . . 
+
+**Hypothesis 3**: Leader-expressed uncertainty has a **curvilinear** (inverse U-shaped) effect on leader social influence  
+
+  - Perceiver attitudes (***H3a***) 
+  - Perceiver behaviors (***H3b***)
+  
+
+## Methods
+
+![](images/experiment.png){.absolute right="0" top="65" height="300"}
+
+
+- Five between-subjects experiments
+  - **S1**: Decoding game
+  - **S2**: Emotion estimation game
+  - **S3**: Anagram game
+  - **S4**: Signaling game
+  - **S5**: Prediction game
+- Experimentally manipulate leader-expressed **uncertainty**
+- Three core **attitudinal** outcomes
+  - Leader effectiveness, warmth, competence
+- Three core **behavioral** outcomes
+  - Advice-following/performance, leader selection, leader reward
+- Incentive-compatible
+  - Prespecified **bonus** for each correct answer
+  
+::: aside
+Meslec, Curseu, Fodor, & Kenda, 2020; Tenney et al., 2019; Zapata & Hayes-Jones, 2019; Manian & Sheth, 2021; Gaertig & Simmons, 2018
+:::
+
+## Experimental Design and Procedure{style='font-size: 23px'}
+
+![](images/advice.gif){.absolute bottom="0" right="0" width="525"}
+
+<br></br>
+
+- Five designs to confirm **generalizability** across different experimental tasks 
+- Prolific participants randomly assigned to one of five experimental **designs**
+  - Within each design, randomly assigned to one of nine experimental **conditions**
+  - 6,000 participants; 1,200 per design; $\pm$ 133 per condition
+- Three-round **incentivized** game
+- Paired with **leader** 
+- **Advice** expressed in varying degrees of uncertainty
+- Advice **quality** and **accuracy** held constant
+- Measure attitudinal and behavioral **consequences** 
+
+
+## Manipulating Uncertainty
+
+<br></br>
+
+- On a 9-point scale ranging from highly certain (-4) to highly uncertain (+4)  
+- Three types of uncertainty expressions (one for each round)
+  - **Calibrated statements** ("On a 1-9 scale, where 1 = highly uncertain and 9 = highly certain, my certainty level is a 7")
+  - **Percentage statements** ("I am 80% sure")
+  - **Colloquial, qualitative statements** ("I am absolutely convinced")
+- Relied on a **novel computational measure** of certainty in language: the Certainty Lexicon
+  
+  
+::: aside
+Rocklage, He, Rucker, & Nordgren, 2022
+:::
+
+## Manipulation Pretests 
+
+![](images/Shutterstock_657922843.jpg){.absolute right="0" top="0"}
+
+<br></br>
+
+- Five **pretests** (*N* = 2,098) to obtain appropriately ordered stimuli
+- Participants rated the **uncertainty** expressed by several stimuli 
+- Obtained **four successful manipulations**
+  - Calibrated statements
+  - Percentage statements 
+  - Two qualitative manipulations
+- Pretested with humans and, if applicable, **Certainty Lexicon**
+
+::: aside
+Rocklage, He, Rucker, & Nordgren, 2022
+:::
+
+## Calibrated Statements
+
+<br></br>
+
+On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), ...
+
+
+. . . 
+
+```{r}
+library(readr)
+scale <- read_csv("data/scale.csv")
+scale$Scale_Statement <- gsub("On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is ", "My certainty level is ", fixed = TRUE, scale$Scale_Statement)
+
+scale %>% 
+  group_by(ScaleR, Scale_Statement) %>% 
+  summarize(
+    Median = median(Scale_RatingR),
+    Mean = mean(Scale_RatingR) %>% round(2)
+    ) %>% 
+  select(ScaleR, Scale_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement"#,
+      #"Median Rating",
+      #"Mean Rating"
+      ),
+    align = "cl" #cc
+    )
+```
+
+
+
+## Percentage Statements
+
+. . .
+
+<br></br>
+
+```{r}
+percent <- read_csv("data/percent.csv")
+
+percent %>% 
+  group_by(PercentR, Percent_Statement) %>% 
+  summarize(
+    Median = median(Percent_RatingR), 
+    Mean = mean(Percent_RatingR) %>% round(2)
+    ) %>% 
+  select(PercentR, Percent_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement"#,
+      #"Median Rating",
+      #"Mean Rating"
+      ),
+    align = "cl" #cc
+    )
+```
+
+## Qualitative Statement 1
+
+<br></br>
+
+```{r}
+convinced1 <- read_csv("data/convinced1.csv")
+
+tc1 <- convinced1 %>% 
+  group_by(ConvincedR, Convinced_Statement) %>% 
+  summarize(
+    Median = median(Convinced_RatingR), 
+    Mean = mean(Convinced_RatingR) %>% round(2)
+    )
+
+tc1$Lexicon_Uncertainty <- -1*(c(7.95, 7.38, 6.55, 5.8, 5.17, 4.63, 3.92, 3.34, 2.12) -5)
+
+tc1 %>% 
+  select(ConvincedR, Convinced_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement"#,
+      #"Median Rating",
+      #"Mean Rating",
+      #"Lexicon Score"
+      ),
+    align = "cl"
+    )
+```
+
+
+## Qualitative Statement 2
+
+<br></br>
+
+```{r}
+convinced1 <- read_csv("data/convinced2.csv")
+
+tc1 <- convinced1 %>% 
+  group_by(ConvincedR, Convinced_Statement) %>% 
+  summarize(
+    Median = median(Convinced_RatingR), 
+    Mean = mean(Convinced_RatingR) %>% round(2)
+    )
+
+tc1$Lexicon_Uncertainty <- -1*(c(7.95, 7.38, 6.55, 6.37, 5.83, 4.36, 3.92, 3.34, 1.97) -5)
+
+tc1 %>% 
+  select(ConvincedR, Convinced_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement"#,
+      #"Median Rating",
+      #"Mean Rating",
+      #"Lexicon Score"
+      ),
+    align = "cl"
+    )
+```
+
+::: aside
+Same as first qualitative uncertainty manipulation, except for conditions -1, 0, 1, and 4.
+:::
+
+## Manipulation Pretests
+
+```{r, fig.width=6, fig.align='center'}
+pooled <- read_csv("data/pooled-manipulations.csv")
+set.seed(1)
+ggplot(pooled, aes(x = factor(ConditionR), y = RatingR)) +
+  geom_boxplot(size = .75, outlier.shape = NA) +
+  geom_jitter(alpha = .2, color = "grey") +
+  facet_wrap(~ Manipulation) +
+  theme_bw() +
+  scale_y_continuous(breaks = -4:4, minor_breaks = -4:4) +
+  labs(x = "Uncertainty Condition", y = "Uncertainty Rating") +
+  theme(strip.background = element_rect(fill = "white"))
+```
+
+
+
+<!-- ## Introducing the Leader -->
+
+<!-- In this game, we have paired you with a **Team Leader**. Your Team Leader's role is to provide **advice** to you during this game. (...) -->
+
+<!-- The Team Leader may give you advice, but you both make **individual choices**. So your payout will be based only on your decision, NOT on the decisions made by your Team Leader. -->
+
+<!-- In contrast, the Team Leader is **compensated** both on how well they play the game AND based on how well their **team** plays the game, of which you are one team member. After playing all three rounds, you will also be able to co-determine a bonus payment for the leader. -->
+
+<!-- ## Introducing the Leader -->
+
+<!-- Meet your Team Leader, [pseudonym]. Hi. My name is [pseudonym], and I am your Team Leader. -->
+
+
+## Study 1: Decoding Task
+
+. . .
+
+![](images/S1.png){fig-align="center"}
+
+. . .
+
+Using the decoding scheme above, which of the following answers is correct?
+
+A. YYMAM = LLAMA  
+B. YRAT = LENGTH   
+C. MNHUT = LAUGH   
+D. YVYL = LILY  
+
+. . .
+
+**Message from Team Leader:**  
+I said D here. I’ve been asked to quantify for you how certain I am that it’s the right answer. On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), I’d say my certainty level is a(n) [***1/2/3/4/5/6/7/8/9***]. 
+
+## Study 2: Emotion Estimation
+
+. . .
+
+![](images/S2.png){fig-align="center"}
+
+. . .
+
+This face is expressing...  
+A. Pride  
+B. Contempt  
+C. Excitement  
+D. Anger  
+
+. . .
+
+**Message from Team Leader:**  
+I picked Pride here. If I had to express my certainty in terms of a percentage, I’d say I am [***1/10/20/40/50/60/80/90/99***]% sure that I got this one right. 
+
+## Study 5: Prediction game
+
+. . .
+
+
+![](images/dogcat.jpeg){.absolute right="0" top="125" width="550"}
+
+
+<br></br>
+
+
+
+- Participants report their own **preferences**
+- Participants **predict** preferences of 100 other survey-takers
+- Goal is to guess **within 5 points** of correct answer
+
+. . .
+
+<br></br>
+
+How many of 100 people surveyed prefer having a **cat** to a **dog**?
+
+
+<br></br>
+
+. . .
+
+
+**Message from Team Leader:**  
+I said 40 here. I’ve been asked to quantify for you how certain I am that it’s within 5 points of the right answer. On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), I’d say my certainty level is a(n) [***1/2/3/4/5/6/7/8/9***]. 
+
+## Attitudinal Outcomes{background-image="images/Shutterstock_572571964.jpg" background-size="600px" background-position="85% 80%"}
+
+::: {.nonincremental}
+
+
+
+<br></br>
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+**Leader effectiveness**
+
+- Is a good leader
+- Has strong leadership skills
+- Has the ability to lead other people
+
+:::
+
+::: {.column width="33%"}
+
+**Warmth**
+
+- Friendly
+- Well-intentioned
+- Trustworthy
+- Warm
+- Good-natured
+- Sincere
+
+:::
+
+::: {.column width="33%"}
+
+**Competence**
+
+- Competent
+- Capable
+- Independent
+- Intelligent
+- Skillful
+
+:::
+
+::::
+
+:::
+
+::: aside
+Flynn & Lide, 2022; Fiske, Cuddy, Glick, & Xu, 2002 
+:::
+
+
+
+
+## Behavioral Outcomes 
+
+![](images/influence.png){.absolute bottom="0" right="0" width="400"}
+
+::: {.nonincremental}
+
+
+
+<br></br>
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+**Advice-following**
+
+The sum of three dichotomous measures indicating whether participants choose the leader's recommended strategy in each round
+
+:::
+
+::: {.column width="33%"}
+
+**Leader selection**
+
+Dichotomous measure indicating whether participants choose, at the end of 3 rounds, to keep the same leader or be paired with a new team leader
+
+:::
+
+::: {.column width="33%"}
+
+**Leader reward**
+
+How much, if anything, participant would like to award the leader, on a bonus payment slider ranging from \$0 to \$5
+
+:::
+
+::::
+
+:::
+
+::: aside
+
+Manian & Sheth, 2021
+
+:::
+
+# Results
+
+## Thank You!{.center style='font-size: 95px; text-align: center;'}
+
+## Meta-Analysis{visibility="uncounted"}
+
+![](images/meta.png){.absolute right="0" bottom="0"}
+
+<br></br>
+
+- Studies that manipulate or measure expressed uncertainty
+  - Include a zero-order effect for an interpersonal outcome
+  - Minimize common-method bias (split-samples/time lags)
+- Obtained correlation in support of H1/H2
+  - Recoded to express effect of *un*certainty
+- Random-effects meta-analysis
+  - *k* = 20 studies
+  - *m* = 87 effect sizes
+  - *N* = 28,594 subjects
+  
+
+
+## Meta-Analysis{visibility="uncounted"}
+
+```{r}
+library(dplyr)
+library(here)
+table1 <- read.csv(here("data/effectsizes.csv")) %>% 
+  select(Paper, Study, predictor, outcome, es_table)
+table1$Paper[duplicated(table1$Paper)] <- ""
+table1$Study[duplicated(table1$Study)] <- ""
+table1$Study <- gsub(".* ", "", table1$Study)
+table1$Study <- gsub("S", "", table1$Study)
+table1$es_table <- gsub("*", "", table1$es_table, fixed = TRUE)
+
+names(table1) <- c("Paper", "Study", "Predictor", "Outcome", "Effect Size")
+
+DT::datatable(
+  table1, 
+  fillContainer = FALSE, 
+  options = list(pageLength = 9),
+  rownames = FALSE
+  )
+```
+
+
+  
+## Meta-Analysis: H1{visibility="uncounted"}
+
+. . .
+
+![](images/H1.jpg){.absolute width="900" height="600"}
+
+## Meta-Analysis: H2{visibility="uncounted"}
+
+. . .
+
+![](images/H2.jpg){.absolute width="900" height="600"}
+
+## Meta-Analysis: Takeaways{visibility="uncounted"}
+
+<br></br>
+
+. . . 
+
+Meta-analytic estimate of the interpersonal effect of expressed uncertainty
+
+- **H1** (negative): *r* = $-$.26, 95% CI [$-$.30, $-$.23] 
+- **H2** (positive): *r* = .13, 95% CI [.07, .20]
+
+. . .
+
+![](images/mediation2.webp){.absolute right="0" bottom="120"}
+
+<br></br>
+
+ 
+We suggest a **non-linear** test (**H3**)   
+to **reconcile** these conflicting results
+
+
+
+::: aside
+Anderson, Brion, Moore, & Kennedy, 2012; Cojuharenco & Karelaia, 2020; De Cremer & Van Knippenberg, 2004; Gaertig & Simmons, 2018; Hu, Erdogan, Jiang, Bauer, & Liu, 2018; Kennedy, Anderson, & Moore, 2013; Manian & Sheth, 2021; Ou, Tsui, Kinicki, Walman, Xiao, & Song, 2014; Owens, Johnson, & Mitchell, 2013; Rego, Cunha, & Simpson, 2018; Ronay, Oostrom, Lehmann-Willenbrock, Mayoral, & Rusch, 2019; Sniezek & Van Swol, 2001; Tenney, MacCoun, Spellman, & Hastie, 2007; Tenney & Spellman, 2011; Tenney, Spellman, & MacCoun, 2008; Tenney, Meikle, Hunsaker, Moore, & Anderson, 2019; Van Swol & Sniezek, 2005; Wang, Liu, & Zhu, 2018; Wang, Owens, Li, & Shi, 2018; Zapata & Hayes-Jones, 2019
+:::
+
+
+## Calibrated Statements{visibility="uncounted"} 
+
+<br></br>
+
+On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), ...
+
+
+
+```{r}
+scale %>% 
+  group_by(ScaleR, Scale_Statement) %>% 
+  summarize(
+    Median = median(Scale_RatingR),
+    Mean = mean(Scale_RatingR) %>% round(2)
+    ) %>% 
+  #select(ScaleR, Scale_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating"
+      ),
+    align = "clcc" 
+    )
+```
+
+
+## Percentage Scale{visibility="uncounted"} 
+
+<br></br>
+
+```{r}
+percent %>% 
+  group_by(PercentR, Percent_Statement) %>% 
+  summarize(
+    Median = median(Percent_RatingR), 
+    Mean = mean(Percent_RatingR) %>% round(2)
+    ) %>% 
+  #select(PercentR, Percent_Statement) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating"
+      ),
+    align = "clcc" 
+    )
+```
+
+## Qualitative Statement 1{visibility="uncounted"} 
+
+<br></br>
+
+```{r}
+tc1 %>% 
+  select(!Lexicon_Uncertainty) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating"#,
+      #"Lexicon Score"
+      ),
+    align = "clcc"
+    )
+```
+
+## Qualitative Statement 1{visibility="uncounted"} 
+
+<br></br>
+
+```{r}
+tc1 %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating",
+      "Lexicon Score"
+      ),
+    align = "clcc"
+    )
+```
+
+::: aside
+Rocklage, He, Rucker, & Nordgren, 2022
+:::
+
+
+## Qualitative Statement 2{visibility="uncounted"} 
+
+<br></br>
+
+```{r}
+tc1 %>% 
+  select(!Lexicon_Uncertainty) %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating"#,
+      #"Lexicon Score"
+      ),
+    align = "clcc"
+    )
+```
+
+::: aside
+Same as first qualitative uncertainty manipulation, except for conditions -1, 0, 1, and 4. [NB: I THINK YOU'VE GOT A CODING MISTAKE HERE AND YOU'RE SHOWING THE SAME SCALE TWICE]
+:::
+
+## Qualitative Statement 2{visibility="uncounted"} 
+
+<br></br>
+
+```{r}
+tc1 %>% 
+  knitr::kable(
+    col.names = c(
+      "Uncertainty Condition", 
+      "Statement",
+      "Median Rating",
+      "Mean Rating",
+      "Lexicon Score"
+      ),
+    align = "clcc"
+    )
+```
+
+::: aside
+Rocklage, He, Rucker, & Nordgren, 2022
+:::
+
+## Study 3: Anagrams{visibility="uncounted"}
+
+![](images/shutterstock_1396252886-min.jpg){.absolute right="0" width="325" top="160"}
+
+<br></br>
+
+. . .
+
+Can you unscramble the following letters?
+
+. . .
+
+
+**BIOGELO**  
+A. YES: This set of scrambled letters has a valid solution  
+B. NO: This set of scrambled letters does not have a valid solution  
+
+. . .
+
+
+**Message from Team Leader:**  
+I answered NO. I am...  <details>
+    <summary>
+    Show qualitative uncertainty statement
+    </summary>
+::: {.nonincremental}
+    
+  - *genuinely unsure. I’m desperately unconvinced whether*
+  - *desperately unconvinced whether*
+  - *unconvinced whether or not*
+  - *generally unconvinced whether or not*
+  - *examining whether*
+  - *generally convinced that*
+  - *reasonably convinced that*
+  - *convinced that*
+  - *absolutely convinced that*
+  
+:::
+    </details>
+...I’m right this time.
+
+## Study 4: Signaling game{visibility="uncounted"}
+
+. . .
+
+![](images/S4.png){.absolute right="0" top="150"}
+
+
+<br></br>
+
+- Participants play **P1 Type B**
+- **P2** does not know which type they are
+- Participants earn more if P2 plays **right**
+- Their goal is to **signal** to P2 that they are Type B 
+
+. . .
+
+What is your selection?  
+A. 1  
+B. 2  
+C. 3  
+D. 4  
+
+
+<br></br>
+
+. . .
+
+
+**Message from Team Leader:**  
+I played 4. I am [***1/10/20/40/50/60/80/90/99***]% sure that's the best choice.
+
+
+## Analysis plan{visibility="uncounted"}
+
+<br></br>
+
+- Assess **linear** effects of leader-expressed uncertainty (separately for each outcome)<details>
+    <summary>
+    Show details
+    </summary>
+    ::: {.nonincremental}
+  - Five separate **linear regression** models 
+  - Random-effects **meta-analysis** to obtain pooled effect size estimate
+  - Evidence for **H1** (**H2**): Pooled estimate significant and negative (positive) 
+  :::
+    </details>
+- Assess **nonlinear** effects of leader-expressed uncertainty (separately for each outcome)<details>
+    <summary>
+    Show details
+    </summary>
+    ::: {.nonincremental}
+  - Five separate **two-lines** tests
+  - Random-effects **meta-analysis** to obtain pooled effect size estimate
+  - Evidence for **H3** if first line positive **and** second line negative
+  :::
+    </details>
+- **Bayesian** analysis if both tests are inconclusive for a particular outcome
+    
+
+::: aside
+Morey & Rouder, 2021; Simonsohn, 2018
+:::

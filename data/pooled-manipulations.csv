@@ -1,0 +1,2085 @@
+Condition,Rating,Statement,ConditionR,RatingR,Manipulation
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-0,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+-1,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-1,Calibrated Scale
+3,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,-1,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+4,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-2,Calibrated Scale
+-3,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+4,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-2,Calibrated Scale
+-2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,3,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-4,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+0,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+3,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-1,Calibrated Scale
+-4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+2,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-3,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,1,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-3,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+-3,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,2,Calibrated Scale
+-4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,2,Calibrated Scale
+0,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+-2,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-4,Calibrated Scale
+2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,3,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-2,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,4,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-0,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+0,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,2,Calibrated Scale
+-1,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-3,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,4,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-1,Calibrated Scale
+0,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,2,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+-1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-0,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-4,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-0,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-2,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-1,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+3,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-2,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-4,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-1,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,3,Calibrated Scale
+2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+-1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,4,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-4,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-0,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+4,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-3,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,4,Calibrated Scale
+1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-0,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+4,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-1,Calibrated Scale
+-4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-4,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-0,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,1,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-4,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,2,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+1,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,3,Calibrated Scale
+2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,2,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+-1,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-2,Calibrated Scale
+0,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,1,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-1,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+-1,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,1,Calibrated Scale
+3,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-3,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+-2,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+-4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-4,Calibrated Scale
+-3,4,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+3,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-2,Calibrated Scale
+-4,1,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,4,Calibrated Scale
+4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-4,Calibrated Scale
+2,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-1,Calibrated Scale
+1,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+-1,3,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 4",1,2,Calibrated Scale
+-2,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 3",2,3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+-3,2,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 2",3,3,Calibrated Scale
+1,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 6",-1,-4,Calibrated Scale
+-4,9,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 1",4,-4,Calibrated Scale
+3,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is an 8",-3,-1,Calibrated Scale
+2,7,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 7",-2,-2,Calibrated Scale
+4,8,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 9",-4,-3,Calibrated Scale
+0,5,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-0,Calibrated Scale
+0,6,"On a 1-9 scale (where 1 = highly uncertain and 9 = highly certain), my certainty level is a 5",-0,-1,Calibrated Scale
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+1,7,I am 60% sure that,-1,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,5,I am 90% sure that,-3,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+2,9,I am 80% sure that,-2,-4,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,3,I am 90% sure that,-3,2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+0,7,I am 50% sure that,-0,-2,Percentage
+3,9,I am 90% sure that,-3,-4,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,3,I am 50% sure that,-0,2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,8,I am 20% sure that,2,-3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,8,I am 10% sure that,3,-3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+2,8,I am 80% sure that,-2,-3,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,5,I am 10% sure that,3,-0,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,3,I am 60% sure that,-1,2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,4,I am 10% sure that,3,1,Percentage
+1,7,I am 60% sure that,-1,-2,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,7,I am 50% sure that,-0,-2,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-2,5,I am 20% sure that,2,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-3,8,I am 10% sure that,3,-3,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+-1,2,I am 40% sure that,1,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,3,I am 80% sure that,-2,2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,2,I am 50% sure that,-0,3,Percentage
+0,3,I am 50% sure that,-0,2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+3,9,I am 90% sure that,-3,-4,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+2,5,I am 80% sure that,-2,-0,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,8,I am 40% sure that,1,-3,Percentage
+-2,5,I am 20% sure that,2,-0,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+3,6,I am 90% sure that,-3,-1,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+-3,5,I am 10% sure that,3,-0,Percentage
+-3,4,I am 10% sure that,3,1,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+1,3,I am 60% sure that,-1,2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+1,3,I am 60% sure that,-1,2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,5,I am 20% sure that,2,-0,Percentage
+-1,1,I am 40% sure that,1,4,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+0,3,I am 50% sure that,-0,2,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+1,9,I am 60% sure that,-1,-4,Percentage
+3,5,I am 90% sure that,-3,-0,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+3,6,I am 90% sure that,-3,-1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-3,8,I am 10% sure that,3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+2,8,I am 80% sure that,-2,-3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-1,2,I am 40% sure that,1,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-1,1,I am 40% sure that,1,4,Percentage
+0,3,I am 50% sure that,-0,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-3,6,I am 10% sure that,3,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,9,I am 80% sure that,-2,-4,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+-1,5,I am 40% sure that,1,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,5,I am 20% sure that,2,-0,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,5,I am 40% sure that,1,-0,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-1,6,I am 40% sure that,1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+2,8,I am 80% sure that,-2,-3,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+3,9,I am 90% sure that,-3,-4,Percentage
+1,7,I am 60% sure that,-1,-2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-1,5,I am 40% sure that,1,-0,Percentage
+-3,4,I am 10% sure that,3,1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+1,4,I am 60% sure that,-1,1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+2,5,I am 80% sure that,-2,-0,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+3,6,I am 90% sure that,-3,-1,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,3,I am 10% sure that,3,2,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+0,4,I am 50% sure that,-0,1,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+-1,2,I am 40% sure that,1,3,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+1,7,I am 60% sure that,-1,-2,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-2,3,I am 20% sure that,2,2,Percentage
+-1,7,I am 40% sure that,1,-2,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+-2,6,I am 20% sure that,2,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-3,7,I am 10% sure that,3,-2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+1,5,I am 60% sure that,-1,-0,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,7,I am 50% sure that,-0,-2,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+0,2,I am 50% sure that,-0,3,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+-2,1,I am 20% sure that,2,4,Percentage
+2,6,I am 80% sure that,-2,-1,Percentage
+-3,1,I am 10% sure that,3,4,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,4,I am 20% sure that,2,1,Percentage
+3,8,I am 90% sure that,-3,-3,Percentage
+2,7,I am 80% sure that,-2,-2,Percentage
+-2,2,I am 20% sure that,2,3,Percentage
+3,7,I am 90% sure that,-3,-2,Percentage
+-1,3,I am 40% sure that,1,2,Percentage
+1,6,I am 60% sure that,-1,-1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-3,2,I am 10% sure that,3,3,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+-2,7,I am 20% sure that,2,-2,Percentage
+-1,4,I am 40% sure that,1,1,Percentage
+0,5,I am 50% sure that,-0,-0,Percentage
+0,6,I am 50% sure that,-0,-1,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,4,I am 1% sure that,4,1,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,2,I am 1% sure that,4,3,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,4,I am 1% sure that,4,1,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,9,I am 1% sure that,4,-4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,2,I am 1% sure that,4,3,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,3,I am 1% sure that,4,2,Percentage
+-4,3,I am 1% sure that,4,2,Percentage
+-4,3,I am 1% sure that,4,2,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+-4,1,I am 1% sure that,4,4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,6,I am 99% sure that,-4,-1,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,6,I am 99% sure that,-4,-1,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,6,I am 99% sure that,-4,-1,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,6,I am 99% sure that,-4,-1,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,8,I am 99% sure that,-4,-3,Percentage
+4,7,I am 99% sure that,-4,-2,Percentage
+4,9,I am 99% sure that,-4,-4,Percentage
+4,6,I am 99% sure that,-4,-1,Percentage
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+0,3,I am examining whether or not,-0,2,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+0,3,I am examining whether or not,-0,2,Qualitative 1
+2,8,I am reasonably convinced that,-2,-3,Qualitative 1
+-2,1,I am unconvinced whether or not,2,4,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+1,2,I am partly convinced that,-1,3,Qualitative 1
+2,4,I am reasonably convinced that,-2,1,Qualitative 1
+0,1,I am examining whether or not,-0,4,Qualitative 1
+4,5,I am absolutely convinced that,-4,-0,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+-2,8,I am unconvinced whether or not,2,-3,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+0,2,I am examining whether or not,-0,3,Qualitative 1
+3,4,I am convinced that,-3,1,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+2,2,I am reasonably convinced that,-2,3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+1,2,I am partly convinced that,-1,3,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+1,8,I am partly convinced that,-1,-3,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+4,6,I am absolutely convinced that,-4,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+0,8,I am examining whether or not,-0,-3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+4,5,I am absolutely convinced that,-4,-0,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+0,2,I am examining whether or not,-0,3,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+1,5,I am partly convinced that,-1,-0,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+4,6,I am absolutely convinced that,-4,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+-2,1,I am unconvinced whether or not,2,4,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,8,I am examining whether or not,-0,-3,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+0,7,I am examining whether or not,-0,-2,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+-2,5,I am unconvinced whether or not,2,-0,Qualitative 1
+0,7,I am examining whether or not,-0,-2,Qualitative 1
+1,9,I am partly convinced that,-1,-4,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+2,4,I am reasonably convinced that,-2,1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+0,8,I am examining whether or not,-0,-3,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+1,2,I am partly convinced that,-1,3,Qualitative 1
+3,4,I am convinced that,-3,1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,7,I am examining whether or not,-0,-2,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,2,I am partly convinced that,-1,3,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+3,5,I am convinced that,-3,-0,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+2,8,I am reasonably convinced that,-2,-3,Qualitative 1
+0,3,I am examining whether or not,-0,2,Qualitative 1
+1,5,I am partly convinced that,-1,-0,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 1
+3,5,I am convinced that,-3,-0,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+3,1,I am convinced that,-3,4,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+0,9,I am examining whether or not,-0,-4,Qualitative 1
+1,8,I am partly convinced that,-1,-3,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+0,7,I am examining whether or not,-0,-2,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+-2,1,I am unconvinced whether or not,2,4,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+1,3,I am partly convinced that,-1,2,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-1,1,I am reasonably unconvinced whether,1,4,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+0,3,I am examining whether or not,-0,2,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,6,I am convinced that,-3,-1,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+0,8,I am examining whether or not,-0,-3,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+0,2,I am examining whether or not,-0,3,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+1,3,I am partly convinced that,-1,2,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+2,3,I am reasonably convinced that,-2,2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+-1,7,I am reasonably unconvinced whether,1,-2,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,7,I am partly convinced that,-1,-2,Qualitative 1
+-1,9,I am reasonably unconvinced whether,1,-4,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+-2,4,I am unconvinced whether or not,2,1,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+0,3,I am examining whether or not,-0,2,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+-1,4,I am reasonably unconvinced whether,1,1,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+2,8,I am reasonably convinced that,-2,-3,Qualitative 1
+2,5,I am reasonably convinced that,-2,-0,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,8,I am unconvinced whether or not,2,-3,Qualitative 1
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 1
+1,3,I am partly convinced that,-1,2,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+3,9,I am convinced that,-3,-4,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+0,4,I am examining whether or not,-0,1,Qualitative 1
+0,5,I am examining whether or not,-0,-0,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+1,9,I am partly convinced that,-1,-4,Qualitative 1
+-1,8,I am reasonably unconvinced whether,1,-3,Qualitative 1
+4,8,I am absolutely convinced that,-4,-3,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+2,8,I am reasonably convinced that,-2,-3,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+0,2,I am examining whether or not,-0,3,Qualitative 1
+4,7,I am absolutely convinced that,-4,-2,Qualitative 1
+1,7,I am partly convinced that,-1,-2,Qualitative 1
+-2,3,I am unconvinced whether or not,2,2,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 1
+-1,6,I am reasonably unconvinced whether,1,-1,Qualitative 1
+0,2,I am examining whether or not,-0,3,Qualitative 1
+-1,2,I am reasonably unconvinced whether,1,3,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+1,4,I am partly convinced that,-1,1,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 1
+3,3,I am convinced that,-3,2,Qualitative 1
+1,2,I am partly convinced that,-1,3,Qualitative 1
+3,8,I am convinced that,-3,-3,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+-2,5,I am unconvinced whether or not,2,-0,Qualitative 1
+4,9,I am absolutely convinced that,-4,-4,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+-1,3,I am reasonably unconvinced whether,1,2,Qualitative 1
+3,7,I am convinced that,-3,-2,Qualitative 1
+-2,9,I am unconvinced whether or not,2,-4,Qualitative 1
+1,6,I am partly convinced that,-1,-1,Qualitative 1
+3,3,I am convinced that,-3,2,Qualitative 1
+2,6,I am reasonably convinced that,-2,-1,Qualitative 1
+2,7,I am reasonably convinced that,-2,-2,Qualitative 1
+0,6,I am examining whether or not,-0,-1,Qualitative 1
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 1
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 1
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 1
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 1
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 1
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 1
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 1
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 1
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 1
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 1
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 1
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 1
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 1
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,6,I'm genuinely unsure. I'm desperately unconvinced whether,4,-1,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,6,I'm genuinely unsure. I'm desperately unconvinced whether,4,-1,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,4,I'm genuinely unsure. I'm desperately unconvinced whether,4,1,Qualitative 1
+-4,4,I'm genuinely unsure. I'm desperately unconvinced whether,4,1,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,4,I'm genuinely unsure. I'm desperately unconvinced whether,4,1,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,7,I'm genuinely unsure. I'm desperately unconvinced whether,4,-2,Qualitative 1
+-4,4,I'm genuinely unsure. I'm desperately unconvinced whether,4,1,Qualitative 1
+-4,2,I'm genuinely unsure. I'm desperately unconvinced whether,4,3,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,3,I'm genuinely unsure. I'm desperately unconvinced whether,4,2,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-4,1,I'm genuinely unsure. I'm desperately unconvinced whether,4,4,Qualitative 1
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,8,I am reasonably convinced that,-2,-3,Qualitative 2
+-2,1,I am unconvinced whether or not,2,4,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+2,4,I am reasonably convinced that,-2,1,Qualitative 2
+0,7,I am examining whether,-0,-2,Qualitative 2
+4,5,I am absolutely convinced that,-4,-0,Qualitative 2
+1,4,I am generally convinced that,-1,1,Qualitative 2
+-2,8,I am unconvinced whether or not,2,-3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+0,8,I am examining whether,-0,-3,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+-1,8,I am generally unconvinced whether,1,-3,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+0,9,I am examining whether,-0,-4,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+3,4,I am convinced that,-3,1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+2,2,I am reasonably convinced that,-2,3,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,5,I am generally convinced that,-1,-0,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+1,3,I am generally convinced that,-1,2,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+4,6,I am absolutely convinced that,-4,-1,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+0,7,I am examining whether,-0,-2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+4,5,I am absolutely convinced that,-4,-0,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+4,6,I am absolutely convinced that,-4,-1,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+-2,1,I am unconvinced whether or not,2,4,Qualitative 2
+0,7,I am examining whether,-0,-2,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,2,I am examining whether,-0,3,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+-1,2,I am generally unconvinced whether,1,3,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-2,5,I am unconvinced whether or not,2,-0,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+0,1,I am examining whether,-0,4,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+-1,1,I am generally unconvinced whether,1,4,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+-1,2,I am generally unconvinced whether,1,3,Qualitative 2
+-1,5,I am generally unconvinced whether,1,-0,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+2,4,I am reasonably convinced that,-2,1,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+3,4,I am convinced that,-3,1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+-1,2,I am generally unconvinced whether,1,3,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+3,5,I am convinced that,-3,-0,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+2,8,I am reasonably convinced that,-2,-3,Qualitative 2
+-1,2,I am generally unconvinced whether,1,3,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+3,5,I am convinced that,-3,-0,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+3,1,I am convinced that,-3,4,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+-1,2,I am generally unconvinced whether,1,3,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+0,2,I am examining whether,-0,3,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+1,8,I am generally convinced that,-1,-3,Qualitative 2
+-2,1,I am unconvinced whether or not,2,4,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-1,5,I am generally unconvinced whether,1,-0,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+0,2,I am examining whether,-0,3,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+0,2,I am examining whether,-0,3,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+1,4,I am generally convinced that,-1,1,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+1,1,I am generally convinced that,-1,4,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+-1,1,I am generally unconvinced whether,1,4,Qualitative 2
+3,6,I am convinced that,-3,-1,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+1,5,I am generally convinced that,-1,-0,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+2,3,I am reasonably convinced that,-2,2,Qualitative 2
+1,4,I am generally convinced that,-1,1,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-1,4,I am generally unconvinced whether,1,1,Qualitative 2
+-1,8,I am generally unconvinced whether,1,-3,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+-2,4,I am unconvinced whether or not,2,1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+1,4,I am generally convinced that,-1,1,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+0,5,I am examining whether,-0,-0,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+2,8,I am reasonably convinced that,-2,-3,Qualitative 2
+2,5,I am reasonably convinced that,-2,-0,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+1,4,I am generally convinced that,-1,1,Qualitative 2
+-2,8,I am unconvinced whether or not,2,-3,Qualitative 2
+-2,7,I am unconvinced whether or not,2,-2,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+0,7,I am examining whether,-0,-2,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+3,9,I am convinced that,-3,-4,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+4,8,I am absolutely convinced that,-4,-3,Qualitative 2
+0,9,I am examining whether,-0,-4,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+2,8,I am reasonably convinced that,-2,-3,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-2,2,I am unconvinced whether or not,2,3,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+-1,6,I am generally unconvinced whether,1,-1,Qualitative 2
+4,7,I am absolutely convinced that,-4,-2,Qualitative 2
+-2,3,I am unconvinced whether or not,2,2,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+0,6,I am examining whether,-0,-1,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+-2,6,I am unconvinced whether or not,2,-1,Qualitative 2
+3,3,I am convinced that,-3,2,Qualitative 2
+0,4,I am examining whether,-0,1,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+3,8,I am convinced that,-3,-3,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+-1,7,I am generally unconvinced whether,1,-2,Qualitative 2
+-1,3,I am generally unconvinced whether,1,2,Qualitative 2
+-2,5,I am unconvinced whether or not,2,-0,Qualitative 2
+4,9,I am absolutely convinced that,-4,-4,Qualitative 2
+0,3,I am examining whether,-0,2,Qualitative 2
+1,7,I am generally convinced that,-1,-2,Qualitative 2
+-1,8,I am generally unconvinced whether,1,-3,Qualitative 2
+3,7,I am convinced that,-3,-2,Qualitative 2
+-2,9,I am unconvinced whether or not,2,-4,Qualitative 2
+3,3,I am convinced that,-3,2,Qualitative 2
+1,6,I am generally convinced that,-1,-1,Qualitative 2
+2,6,I am reasonably convinced that,-2,-1,Qualitative 2
+2,7,I am reasonably convinced that,-2,-2,Qualitative 2
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 2
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 2
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 2
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 2
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,5,I am desperately unconvinced whether,3,-0,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 2
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 2
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 2
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,7,I am desperately unconvinced whether,3,-2,Qualitative 2
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 2
+-3,4,I am desperately unconvinced whether,3,1,Qualitative 2
+-3,3,I am desperately unconvinced whether,3,2,Qualitative 2
+-3,9,I am desperately unconvinced whether,3,-4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,8,I am desperately unconvinced whether,3,-3,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,1,I am desperately unconvinced whether,3,4,Qualitative 2
+-3,2,I am desperately unconvinced whether,3,3,Qualitative 2
+-3,6,I am desperately unconvinced whether,3,-1,Qualitative 2
+-4,3,I seriously don't know... I'm desperately unconvinced whether,4,2,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,3,I seriously don't know... I'm desperately unconvinced whether,4,2,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,5,I seriously don't know... I'm desperately unconvinced whether,4,-0,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,3,I seriously don't know... I'm desperately unconvinced whether,4,2,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,6,I seriously don't know... I'm desperately unconvinced whether,4,-1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,9,I seriously don't know... I'm desperately unconvinced whether,4,-4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,2,I seriously don't know... I'm desperately unconvinced whether,4,3,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,3,I seriously don't know... I'm desperately unconvinced whether,4,2,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,4,I seriously don't know... I'm desperately unconvinced whether,4,1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,6,I seriously don't know... I'm desperately unconvinced whether,4,-1,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
+-4,1,I seriously don't know... I'm desperately unconvinced whether,4,4,Qualitative 2
