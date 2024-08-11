@@ -14,7 +14,8 @@ format:
     code-copy: true
     slide-number: true
     preview-links: true
-    self-contained: true #change to true after edits
+    self-contained: true 
+    embed-resources: true
     controls: true
     overview: true
     mouse-wheel: false
@@ -354,7 +355,7 @@ Pierro, Cicero, Bonaiuto, Van Knippenberg, & Kruglanski, 2005; Pierro, Mannetti,
 - Three core **behavioral** outcomes
   - Advice-following/performance, leader selection, leader reward
 - Incentive-compatible
-  - Prespecified **bonus** for each correct answer
+  - Prespecified **bonus** for performance
   
 ::: aside
 Meslec, Curseu, Fodor, & Kenda, 2020; Tenney et al., 2019; Zapata & Hayes-Jones, 2019; Manian & Sheth, 2021; Gaertig & Simmons, 2018
