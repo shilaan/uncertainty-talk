@@ -299,28 +299,28 @@ Taken together, **too-much-of-a-good thing** effects, **perils of overconfidence
   
   
   
-## The Role of Individual Differences{style='font-size: 20px'}
+## The Role of Individual Differences{style='font-size: 22px'}
 
-The effect of leader-expressed uncertainty may depend on the **individual traits and characteristics** of observers
+Effect of leader-expressed uncertainty may depend on **individual traits and characteristics** of observers
 
 <br>
 
 . . .
 
-**Need for Cognitive Closure**
+**Need for cognitive closure**
 
 - Captures desire for clear answers and predictability; **intolerance of uncertainty** and ambiguity
 - Affects **leader endorsement** and rejection
   - E.g., increases support for **autocratic** leaders and **group-prototypical leaders**
 - This link between need for closure and **rejection of closure-disrupting leaders** suggests...
   
-<br></br>
+<br>
 
 . . .
 
 **Hypothesis 4**  
 
-The effect of leader-expressed uncertainty is moderated by **perceiver need for closure**, such that the effect on
+Effect of leader-expressed uncertainty is moderated by **perceiver need for closure**, such that the effect on
 
   - Perceiver attitudes (***H4a***) 
   - Perceiver behaviors (***H4b***)
@@ -569,8 +569,6 @@ ggplot(pooled, aes(x = factor(ConditionR), y = RatingR)) +
 
 ## Study 1: Decoding Task
 
-. . .
-
 ![](images/S1.png){fig-align="center"}
 
 . . .
@@ -589,7 +587,6 @@ I said D here. I’ve been asked to quantify for you how certain I am that it’
 
 ## Study 2: Emotion Estimation
 
-. . .
 
 ![](images/S2.png){fig-align="center"}
 
@@ -606,9 +603,7 @@ D. Anger
 **Message from Team Leader:**  
 I picked Pride here. If I had to express my certainty in terms of a percentage, I’d say I am [***1/10/20/40/50/60/80/90/99***]% sure that I got this one right. 
 
-## Study 5: Prediction game
-
-. . .
+## Study 5: Prediction Game
 
 
 ![](images/dogcat.jpeg){.absolute right="0" top="125" width="550"}
@@ -739,7 +734,192 @@ Manian & Sheth, 2021
 
 :::
 
-## Results
+## Preregistered Analysis Plan
+
+<br>
+
+Assess **linear** effects of leader-expressed uncertainty (separately for each outcome)
+
+- Five separate **linear regression** models (one for each study) 
+- Random-effects **meta-analysis** to obtain pooled effect size estimate across 5 studies
+- Evidence for **H1** (**H2**): Pooled estimate significant and negative (positive) 
+
+. . .
+
+Assess **nonlinear** effects of leader-expressed uncertainty (separately for each outcome)
+
+- Five separate **two-lines** tests (one for each study)
+- Random-effects **meta-analysis** to obtain pooled effect size estimate across 5 studies
+- Evidence for **H3** if first line positive **and** second line negative
+
+. . .
+
+**Bayesian** analysis if both tests are inconclusive for a particular outcome
+    
+
+::: aside
+Morey & Rouder, 2021; Simonsohn, 2018
+:::
+
+## Results{style='font-size: 50px'}
+
+The effect of leader-expressed uncertainty is... 
+
+*H1*: **Negative** 
+
+::: {.fragment .strike}
+
+*H2*: **Positive**   
+
+*H3*: **Curvilinear**
+
+*H4*: Moderated by **perceiver need for closure**
+
+:::
+
+## Results{style='font-size: 50px' visibility="uncounted"}
+
+The effect of leader-expressed uncertainty is... 
+
+*H1*: **Negative** 
+
+## Attitudes{background-image="images/meta_attitudes.png" background-size="1150px" background-position="99% 97%"}
+
+## Attitudes{background-image="images/meta_attitudes.png" background-size="900px" background-position="97% 90%"}
+
+```{r}
+library(dplyr)
+meta <- read_csv("data/meta_main_results.csv") %>% 
+  mutate(
+    across(estimate:statistic, ~ sprintf("%.2f", .x)),
+    across(conf.low:conf.high, ~ sprintf("%.2f", .x))
+  )
+```
+
+Leader-expressed **uncertainty** has a **negative** effect on perceived leader... 
+
+<br></br>
+
+. . . 
+
+**Effectiveness** 
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[1]`, 95% CI [`r meta$conf.low[1]`, `r meta$conf.high[1]`], *p* < .001
+
+:::
+
+<br>
+
+. . .
+
+**Warmth**
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[2]`, 95% CI [`r meta$conf.low[2]`, `r meta$conf.high[2]`], *p* < .001
+
+:::
+
+. . .
+
+<br>
+
+**Competence**
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[3]`, 95% CI [`r meta$conf.low[3]`, `r meta$conf.high[3]`], *p* < .001
+
+:::
+
+## Behavior{background-image="images/meta_behaviors.png" background-size="1150px" background-position="97% 90%"}
+
+## Behavior{background-image="images/meta_behaviors.png" background-size="900px" background-position="97% 90%"}
+
+Leader-expressed **uncertainty** has a **negative** effect on... 
+
+<br></br>
+
+. . . 
+
+**Advice taking** 
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[4]`, 95% CI [`r meta$conf.low[4]`, `r meta$conf.high[4]`], *p* < .001
+
+:::
+
+<br>
+
+. . .
+
+**Leader selection**
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[5]`, 95% CI [`r meta$conf.low[5]`, `r meta$conf.high[5]`], *p* < .001
+
+:::
+
+. . .
+
+<br>
+
+**Leader rewards**
+
+::: {.nonincremental}
+
+- $b_1$ = `r meta$estimate[6]`, 95% CI [`r meta$conf.low[6]`, `r meta$conf.high[6]`], *p* < .001
+
+:::
+
+
+## Other Results
+
+<br>
+
+We find **no evidence** for...
+
+. . .
+
+*H3*: **Curvilinear** effects
+
+. . .
+
+*H4*: Moderation by **perceiver need for closure**
+
+## Conclusion
+
+<br>
+
+In this setting, we find... 
+
+- Expressing uncertainty **harms** the social influence of leaders
+- No evidence of **humility** premium
+- Even for perceived leader **warmth**
+
+<br>
+
+. . .
+
+**Why?**
+
+- Advice quality was held constant, no real "**miscalibration**"?
+- Zero-shot context (the "**emerging**" zone rather than the "**enduring**" zone)
+- And...publication bias in humble leadership literature (stay tuned)
+
+::: aside
+Alzahawi & Flynn, 2024; Kalish & Luria, 2021
+:::
+
+
+
+
+
+
 
 ## Thank You!{.center style='font-size: 95px; text-align: center;'}
 
@@ -1037,33 +1217,4 @@ D. 4
 I played 4. I am [***1/10/20/40/50/60/80/90/99***]% sure that's the best choice.
 
 
-## Analysis plan{visibility="uncounted"}
 
-<br></br>
-
-- Assess **linear** effects of leader-expressed uncertainty (separately for each outcome)<details>
-    <summary>
-    Show details
-    </summary>
-    ::: {.nonincremental}
-  - Five separate **linear regression** models 
-  - Random-effects **meta-analysis** to obtain pooled effect size estimate
-  - Evidence for **H1** (**H2**): Pooled estimate significant and negative (positive) 
-  :::
-    </details>
-- Assess **nonlinear** effects of leader-expressed uncertainty (separately for each outcome)<details>
-    <summary>
-    Show details
-    </summary>
-    ::: {.nonincremental}
-  - Five separate **two-lines** tests
-  - Random-effects **meta-analysis** to obtain pooled effect size estimate
-  - Evidence for **H3** if first line positive **and** second line negative
-  :::
-    </details>
-- **Bayesian** analysis if both tests are inconclusive for a particular outcome
-    
-
-::: aside
-Morey & Rouder, 2021; Simonsohn, 2018
-:::
